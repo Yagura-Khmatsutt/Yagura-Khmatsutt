@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Yagura-Khmatsutt">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=Yagura-Khmatsutt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img heigth="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagura-Khmatsutt&layout=compact&langs_count=16theme=dracula)"/>
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=Yagura-Khamatsutt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img heigth="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagura-Khmatsutt&layout=compact&langs_count=16theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
